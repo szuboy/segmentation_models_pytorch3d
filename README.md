@@ -1,7 +1,7 @@
 <div align="center">
  
-![logo](./pics/logo.png)  
-${\color{red} {\textbf{3D Medical Image Segmentation}}}$ <b>Python Library Segmentation based on [PyTorch](https://pytorch.org/)</b>.
+![logo](/pics/logo.png)  
+${\color{red} {\textbf{3D Medical Image Segmentation}}}$ <b>Python Library based on [PyTorch](https://pytorch.org/)</b>.
 
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg?style=for-the-badge)](https://github.com/qubvel/segmentation_models.pytorch/blob/master/LICENSE) 
