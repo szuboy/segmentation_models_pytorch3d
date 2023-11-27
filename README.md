@@ -1,6 +1,6 @@
 <div align="center">
- 
-![logo](pics/logo.png)  
+
+![logo](logo.png)
 ${\color{red} {\textbf{3D Medical Image Segmentation}}}$ <b>Python Library based on [PyTorch](https://pytorch.org/)</b>.
 
 
